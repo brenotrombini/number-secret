@@ -5,7 +5,7 @@ console.log ( numeroSecreto );
 let chute;
 let tentativas = 1;
 
-// enquanto o chute n for igual ao numero secreto
+// enquanto o chute n for igual ao numero secreto.
 while (chute != numeroSecreto) {
     chute = prompt(`Digite um numero de 1 a ${numeroMaximo}`);
     // se chute igual a numeroSecreto
